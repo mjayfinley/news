@@ -1,0 +1,59 @@
+.container {
+  padding-top: 10px;
+
+}
+
+li {
+  list-style: none;
+
+}
+
+.media{
+  list-style-position: inside;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+img {
+  height: 200px;
+  width: 225px;
+  float: left;
+}
+
+h5 {
+  font-size: 28px;
+}
+
+
+.headingFont{
+  display: flex;
+  font-size: 15px;
+
+
+}
+
+.newsDescription {
+  display: flex;
+  font-size: 13px;
+
+}
+
+.newsPublished {
+  display: flex;
+  font-size: 10px;
+
+}
+
+.betterNav {
+  height: 100px;
+  font-size: 56px;
+  font-family: Courier;
+  font-weight: bolder;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+
+}
